@@ -1,6 +1,6 @@
 # Hi, I'm Izaiah!
 
-# 🛡️ Cybersecurity Projects:
+## 🛡️ Cybersecurity Projects:
 
 - **ServiceNow + Active Directory Lab** *(in progress)* 
   - [ad-servicenow-lab](https://github.com/izaiahTechLab/ad-servicenow-lab)
@@ -18,7 +18,7 @@
 - Microsoft Azure Fundamentals (AZ-900)
 - Splunk Core Certified User
 
-# 🧠 Why I Choose Cybersecurity
+## 🧠 Why I Choose Cybersecurity
 
 Cybersecurity is a field I’ve developed a strong interest in through both curiosity and hands-on experience, with a clear focus on defensive security. I am especially interested in the blue team side of cybersecurity—monitoring systems, identifying threats early, and strengthening environments before attackers can exploit them.
 
