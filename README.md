@@ -38,5 +38,6 @@ My goal is to continue growing as a security professional focused on blue team o
 ---
 
 ## 📚 Experience
+- Cybersecurity Technology Major — University of Maryland Global Campus
 - High School CTE Cybersecurity Program  
 - Hands-on labs in networking and security basics  
