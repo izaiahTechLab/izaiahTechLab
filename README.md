@@ -2,7 +2,7 @@
 
 ## 🛡️ Cybersecurity Projects:
 
-- **ServiceNow + Active Directory Lab** *(in progress)* 
+- **ServiceNow + Active Directory Lab** *(in progress)*
   - [ad-servicenow-lab](https://github.com/izaiahTechLab/ad-servicenow-lab)
 - **Azure Cloud Security Lab** *(in progress)*
   - [azure-cloud-lab](https://github.com/izaiahTechLab/azure-cloud-lab)
