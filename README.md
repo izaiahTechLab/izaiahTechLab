@@ -14,6 +14,7 @@
 
 [Pearson Information Technology Specialist](https://www.credly.com/badges/462f-9ac9-f9a3a010981b/public_url)
 
+
 *Currently pursuing:*
 - CompTIA CySA+ (CS0-003)
 - Microsoft Azure Fundamentals (AZ-900)
