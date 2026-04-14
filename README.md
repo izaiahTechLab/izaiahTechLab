@@ -3,7 +3,7 @@
 ## 🛡️ Cybersecurity Projects:
 
 - **Active Directory Lab** 
-  - [activedirectory-lab](https://github.com/izaiahTechLab/activedirectory-lab)
+  - [active-directory-lab](https://github.com/izaiahTechLab/activedirectory-lab)
 - **Service Now Lab** *(in progress)*
   - [service-now-lab](https://github.com/izaiahTechLab/service-now-lab)
 - **SIEM Detection Lab with Splunk** *(in progress)*
