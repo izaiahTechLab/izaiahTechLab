@@ -11,6 +11,7 @@
     
 ## Certifications:
 [CompTIA Security+ (SY0-701)](https://www.credly.com/badges/6650f32e-b437-4527-ba09-ac51c962a0d0)
+
 [Pearson Information Technology Specialist](https://www.credly.com/badges/462f-9ac9-f9a3a010981b)
 
 *Currently pursuing:*
