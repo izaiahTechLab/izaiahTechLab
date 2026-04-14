@@ -4,8 +4,8 @@
 
 - **Active Directory Lab** 
   - [activedirectory-lab](https://github.com/izaiahTechLab/activedirectory-lab)
-- **Azure Cloud Security Lab** *(in progress)*
-  - [azure-cloud-lab](https://github.com/izaiahTechLab/azure-cloud-lab)
+- **Service Now Lab** *(in progress)*
+  - [service-now-lab](https://github.com/izaiahTechLab/service-now-lab)
 - **SIEM Detection Lab with Splunk** *(in progress)*
   - [splunk-siem-lab](https://github.com/izaiahTechLab/splunk-siem-lab)
     
