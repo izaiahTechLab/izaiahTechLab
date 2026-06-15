@@ -30,11 +30,12 @@ My goal is to continue growing as a security professional focused on blue team o
 
 ---
 
-## 🔧 Core Interests
-- SOC monitoring and alert analysis  
-- Threat detection and incident response  
-- Network security fundamentals  
-- Blue team operations  
+## 🔧 Core Interests & Focus Areas
+
+*   **Identity & Access Management (IAM):** Implementing Role-Based Access Control (RBAC), user lifecycle provisioning (onboarding/offboarding), and enforcing the principle of least privilege.
+*   **IT Support & Troubleshooting:** Diagnosing hardware, software, and connectivity issues while delivering efficient, customer-focused end-user support.
+*   **Directory Services & Governance:** Managing user accounts, security groups, and Group Policy Objects (GPOs) within enterprise Windows Server/Active Directory environments.
+*   **Incident Triage & Ticketing:** Leveraging enterprise ticketing systems and workflows to efficiently document, prioritize, and resolve technical issues.
 
 ---
 
