@@ -14,9 +14,7 @@
 
 
 *Currently pursuing:*
-- CompTIA CySA+ (CS0-003)
 - Microsoft Azure Fundamentals (AZ-900)
-- Splunk Core Certified User
 
 ## 🧠 Why I Choose Cybersecurity
 
