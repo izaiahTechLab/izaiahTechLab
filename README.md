@@ -4,7 +4,7 @@
 
 - **Active Directory Lab** 
   - [active-directory-lab](https://github.com/izaiahTechLab/activedirectory-lab)
-- **Service Now Lab** *(in progress)*
+- **Service Now Lab**
   - [service-now-lab](https://github.com/izaiahTechLab/service-now-lab)
 
 ## Certifications:
