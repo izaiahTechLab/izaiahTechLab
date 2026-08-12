@@ -12,7 +12,7 @@
 
 [Pearson Information Technology Specialist](https://www.credly.com/earner/earned/badge/c4420751-9279-462f-9ac9-f9a3a010981b)
 
-[AWS Certified Cloud Practitioner (CLF-C02)]
+AWS Certified Cloud Practitioner (CLF-C02)
 
 ## 🧠 Why I Choose Cybersecurity
 
